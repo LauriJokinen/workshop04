@@ -1,4 +1,26 @@
+body{
+  text-align: center;
+
+}
+
+
+
 .linkki{
-  text-align: right;
+  text-align:  right;
+
+}
+
+.palmu{
+
+
+}
+
+.progress{
+  padding-left: 50px;
+
+}
+
+.otsikko{
+
 
 }
