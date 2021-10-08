@@ -1,6 +1,6 @@
 body{
   text-align: center;
-
+  background-color: rgb(169, 149, 123);
 }
 
 
@@ -21,6 +21,9 @@ body{
 }
 
 .otsikko{
-
+  border-style: solid;
+  border-color: black;
+  margin-right: 300px;
+  margin-left: 300px;
 
 }
