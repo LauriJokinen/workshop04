@@ -5,7 +5,7 @@ body{
 
 
 .linkki {
-  text-align:right;
+  text-align: right;
 
 }
 
@@ -14,4 +14,13 @@ body{
   border-color: black;
   margin-right: 300px;
   margin-left: 300px;
+}
+
+.leipä{
+  margin-left: 600px;
+  margin-right: 600px;
+  background-color: white;
+  border-style: dotted;
+  border-color: black;
+  border-radius: 20px;
 }
