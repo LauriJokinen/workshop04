@@ -1,0 +1,65 @@
+  body{
+    text-align: center;
+    background-color: rgb(169, 149, 123);
+  }
+
+
+   #linkki {
+     float: left;
+     text-align: left;
+     list-style-type: none;
+     background-color: #4B371C;
+     padding-right: 20px;
+     width: 10%;
+     border-radius: 10px;
+  }
+   #linkki ul {
+      list-style-type: none;
+      text-decoration: none;
+
+   }
+   #linkki a {
+      text-decoration: none;
+      color: white;
+   }
+
+   #linkkihover {
+     color: blue;
+
+
+   }
+
+   #linkkiused {
+     color: gray;
+
+
+   }
+
+
+
+
+  .otsikko{
+    border-style: solid;
+    border-color: black;
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+
+  section {
+    width: 90%;
+
+  }
+
+  .leipä{
+    background-color: white;
+    border-style: dotted;
+    border-color: black;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 250px;
+  }
+  .kuva{
+    float: right;
+
+
+  }
