@@ -16,22 +16,28 @@
      padding-right: 20px;
      width: 10%;
      border-radius: 10px;
+     min-height: 150px;
   }
    #linkki ul {
       list-style-type: none;
       text-decoration: none;
-
    }
 
    a:hover {
      color: red;
-
    }
 
    #linkki a{
      color: white;
      text-decoration: none;
+   }
 
+   #linkki a:hover{
+     color: red;
+     text-decoration: none;
+   }
+   .ekalinkki{
+     padding-bottom: 5px;
 
    }
 
@@ -39,6 +45,8 @@
      text-decoration: none;
      color: white;
      font-size: 20px;
+     word-spacing: 2em;
+
 
    }
 
@@ -69,14 +77,14 @@
     border-radius: 20px;
     padding: 20px;
     margin-left: 250px;
-    height: 500px;
+    min-height: 500px;
     font-size: 20px;
   }
 
   footer{
-    background-color: #4B371C;
+    background-color: ;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: ;
     margin-top: 210px;
     width: 100%;
 
