@@ -1,6 +1,10 @@
   body{
     text-align: center;
     background-color: rgb(169, 149, 123);
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height:auto;
   }
 
 
@@ -18,31 +22,39 @@
       text-decoration: none;
 
    }
-   #linkki a {
-      text-decoration: none;
-      color: white;
-   }
 
-   #linkkihover {
-     color: blue;
-
+   a:hover {
+     color: red;
 
    }
 
-   #linkkiused {
-     color: gray;
+   #linkki a{
+     color: white;
+     text-decoration: none;
 
 
    }
 
+   .ekalinkki a{
+     text-decoration: none;
+     color: white;
+     font-size: 20px;
 
+   }
 
+   .ekalinkki a:hover{
+     text-decoration: none;
+     color: red;
+     font-size: 20px;
+
+   }
 
   .otsikko{
     border-style: solid;
     border-color: black;
     margin-right: 300px;
     margin-left: 300px;
+
   }
 
   section {
@@ -57,9 +69,15 @@
     border-radius: 20px;
     padding: 20px;
     margin-left: 250px;
+    height: 500px;
+    font-size: 20px;
   }
-  .kuva{
-    float: right;
 
+  footer{
+    background-color: #4B371C;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 210px;
+    width: 100%;
 
   }
